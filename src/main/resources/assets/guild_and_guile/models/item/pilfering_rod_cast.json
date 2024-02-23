@@ -1,0 +1,6 @@
+{
+  "parent": "guild_and_guile:item/pilfering_rod",
+  "textures": {
+    "layer0": "guild_and_guile:item/pilfering_rod_cast"
+  }
+}

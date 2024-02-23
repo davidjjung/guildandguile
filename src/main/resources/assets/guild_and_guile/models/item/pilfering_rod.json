@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "guild_and_guile:item/pilfering_rod"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cast": 1
+      },
+      "model": "guild_and_guile:item/pilfering_rod_cast"
+    }
+  ]
+}
